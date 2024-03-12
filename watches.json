@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "Apple Watch Series 9",
+    "price": 39009
+  },
+  {
+    "id": 2,
+    "name": "Galaxy Watch 4",
+    "price": 99999349
+  },
+  {
+    "id": 3,
+    "name": "Fitbit Sense",
+    "price": 299
+  },
+  {
+    "id": 4,
+    "name": "Garmin Venu 2",
+    "price": 399
+  },
+  {
+    "id": 5,
+    "name": "Huawei Watch GT 3",
+    "price": 329
+  }
+]
